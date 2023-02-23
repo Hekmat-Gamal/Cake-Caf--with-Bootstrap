@@ -18,6 +18,10 @@ body {
 .navbar .dropdown-menu {
   background-color: palevioletred;
 }
+.navbar .navbar-toggler-icon {
+  border: 2px solid black;
+  background-image: url("../imgs/bar.JPG");
+}
 /* Navbar Section End */
 /* Slider Section Start */
 .slide {
